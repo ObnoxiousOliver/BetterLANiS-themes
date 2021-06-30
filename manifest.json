@@ -3,5 +3,6 @@
   "version": "1.0",
   "author": "ObnoxiousOliver",
   "description": "Ein sehr dunkles Design für Better LANiS",
-  "css": "css/index.css"
+  "css": "css/index.css",
+  "icon": "icon.png"
 }
