@@ -1,6 +1,10 @@
-:root {
-	--primary-background: #453799;
-	--secondary-background: #131c26;
-	--tertiary-background: #0a111b;
-
+{
+  "name": "Deep Galaxy",
+  "version": "1.0",
+  "author": "Mikolaj Bajtkiewicz",
+  "description": "Dunkler Design mit etwas Galaxy!",
+  "css": "main.css",
+  "preview": {
+    "1": "#131c26"
+  }
 }
